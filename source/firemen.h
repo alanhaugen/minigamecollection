@@ -1,5 +1,5 @@
 #ifndef FIREMEN_H
-#define FIREMENT_H
+#define FIREMEN_H
 
 #include <core/x-platform/scene.h>
 
