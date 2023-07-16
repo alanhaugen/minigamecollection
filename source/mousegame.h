@@ -1,12 +1,12 @@
-#ifndef SPACEINVADERS_H
-#define SPACEINVADERS_H
+#ifndef MOUSEGAME_H
+#define MOUSEGAME_H
 
 #include <core/x-platform/scene.h>
 
-class SpaceInvaders : public IScene
+class MouseGame : public IScene
 {
 public:
-    SpaceInvaders();
+    MouseGame();
 
     void Init();
     void Update();

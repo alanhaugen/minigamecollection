@@ -1,4 +1,4 @@
-#include "SpaceInvaders.h"
+#include "spaceinvaders.h"
 
 SpaceInvaders::SpaceInvaders()
 {

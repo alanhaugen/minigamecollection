@@ -1,12 +1,12 @@
-#ifndef SPACEINVADERS_H
-#define SPACEINVADERS_H
+#ifndef BREAKOUT_H
+#define BREAKOUT_H
 
 #include <core/x-platform/scene.h>
 
-class SpaceInvaders : public IScene
+class Breakout : public IScene
 {
 public:
-    SpaceInvaders();
+    Breakout();
 
     void Init();
     void Update();
