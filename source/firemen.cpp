@@ -12,7 +12,7 @@ void Firemen::Init()
 
     components.Add(camera);
     components.Add(firemen);
-    components.Add(building);
+    components.Add(background);
 };
 
 void Firemen::Update()
