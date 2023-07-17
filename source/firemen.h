@@ -12,6 +12,8 @@ private:
     Sprite* background;
     Sprite* firemen;
 
+    float speed;
+
 public:
     Firemen();
 
