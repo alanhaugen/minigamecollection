@@ -11,8 +11,12 @@ private:
     Camera* camera;
     Sprite* background;
     Sprite* firemen;
+    Sprite* person;
 
     float speed;
+    float personSpeed;
+    float force;
+    float gravity;
 
 public:
     Firemen();
